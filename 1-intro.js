@@ -7,4 +7,4 @@ else{
     console.log('large number')
 }
 
-console.log('my first app')
+console.log(`my first app`)
